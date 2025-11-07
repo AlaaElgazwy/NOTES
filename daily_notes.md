@@ -1,2 +1,3 @@
 - Set Up Jenkins Server(68-100 Days of DevOps KodeKloud)
 - Install Jenkins Plugins(69-100 Days of DevOps KodeKloud)
+- Day 70: Configure Jenkins User Access
