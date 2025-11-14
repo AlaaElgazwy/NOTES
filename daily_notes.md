@@ -2,3 +2,4 @@
 - Install Jenkins Plugins(69-100 Days of DevOps KodeKloud)
 - Day 70: Configure Jenkins User Access
 - Day 71: Configure Jenkins Job for Package Installation
+- Day 72: Jenkins Parameterized Builds
