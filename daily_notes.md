@@ -3,3 +3,5 @@
 - Day 70: Configure Jenkins User Access
 - Day 71: Configure Jenkins Job for Package Installation
 - Day 72: Jenkins Parameterized Builds
+- Day 73: Jenkins Scheduled Jobs
+- Day 74: Jenkins Database Backup Job
