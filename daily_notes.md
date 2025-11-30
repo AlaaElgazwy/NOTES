@@ -5,3 +5,5 @@
 - Day 72: Jenkins Parameterized Builds
 - Day 73: Jenkins Scheduled Jobs
 - Day 74: Jenkins Database Backup Job
+- study S3 buckets AWS
+- study ansible ssh connections
